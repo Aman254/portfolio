@@ -38,7 +38,7 @@ export default function About() {
             />
           </motion.div>
         ))}
-        {/* 
+        {/*
         // <Image
         //   src="https://images.unsplash.com/photo-1692544350322-ac70cfd63614?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHw1fHx8ZW58MHx8fHx8&auto=format&fit=crop&w=800&q=60"
         //   width={200}
@@ -71,7 +71,7 @@ export default function About() {
 
       <div className="max-w-4xl">
         <Paragraph className=" mt-4">
-          Hey there, I&apos;m John Doe - a passionate developer, avid writer,
+          Hey there, I&apos;m Aman Mishra - a passionate developer, avid writer,
           and a connoisseur of awesome design. Welcome to my corner of the
           digital world!
         </Paragraph>
